@@ -1,0 +1,7 @@
+D:\Forman_OOP\Forman_OOP\Forman_OOP\obj\Debug\Forman_OOP.csproj.AssemblyReference.cache
+D:\Forman_OOP\Forman_OOP\Forman_OOP\obj\Debug\Forman_OOP.csproj.CoreCompileInputs.cache
+D:\Forman_OOP\Forman_OOP\Forman_OOP\bin\Debug\Forman_OOP.exe.config
+D:\Forman_OOP\Forman_OOP\Forman_OOP\bin\Debug\Forman_OOP.exe
+D:\Forman_OOP\Forman_OOP\Forman_OOP\bin\Debug\Forman_OOP.pdb
+D:\Forman_OOP\Forman_OOP\Forman_OOP\obj\Debug\Forman_OOP.exe
+D:\Forman_OOP\Forman_OOP\Forman_OOP\obj\Debug\Forman_OOP.pdb
